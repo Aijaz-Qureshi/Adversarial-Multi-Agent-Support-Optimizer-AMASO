@@ -7,4 +7,4 @@
 <a href="https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/blob/main/dashboard_interpretation_guide.md"> Read Dahsboard Interpretation Guide
 
 ## Troubleshooting Guide
-<a href="https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/edit/main/README.md"> Troubleshooting Guide
+<a href="https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/blob/main/troubleshooting_guide.md"> Read Troubleshooting Guide
