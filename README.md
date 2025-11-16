@@ -4,7 +4,7 @@
 <img width="923" height="814" alt="adversarial_agents_architecture" src="https://github.com/user-attachments/assets/1ffb27f3-62de-4f57-babb-86679b5ee313" />
 
 ## Dashboard Interpretation Guide
-https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/edit/main/README.md
+<a href="https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/edit/main/README.md"> Dahsboard Interpretation Guide
 
 ## Troubleshooting Guide
-https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/edit/main/README.md
+<a href="https://github.com/Aijaz-Qureshi/Adversarial-Multi-Agent-Support-Optimizer-AMASO/edit/main/README.md"> Troubleshooting Guide
