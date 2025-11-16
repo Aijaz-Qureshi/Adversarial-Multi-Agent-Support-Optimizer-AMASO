@@ -336,11 +336,9 @@ pytest tests/test_agents.py::TestAdvocateAgent
 
 ## 📚 Documentation
 
-- **[Architecture Guide](./docs/architecture.md)**: Deep dive into system design
-- **[Dashboard Interpretation](./docs/dashboard_guide.md)**: 60-page executive guide
-- **[Troubleshooting](./docs/troubleshooting.md)**: Common issues and solutions
-- **[API Reference](./docs/api_reference.md)**: Complete API documentation
-- **[Contributing Guide](./CONTRIBUTING.md)**: How to contribute
+- **[Architecture Guide](./docs/adversarial_agents_architecture.tsx)**: Deep dive into system design
+- **[Dashboard Interpretation](./docs/dashboard_interpretation_guide.md)**: ~60-page executive guide
+- **[Troubleshooting](./docs/troubleshooting_guide.md)**: Common issues and solutions
 
 ---
 
