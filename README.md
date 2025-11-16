@@ -1,1 +1,1 @@
-# Adversarial-Multi-Agent-Support-Optimizer-AMASO-
+# Adversarial Multi-Agent Support Optimizer (AMASO)
