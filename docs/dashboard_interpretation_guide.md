@@ -4,6 +4,7 @@
 ---
 
 ## 📊 Dashboard 1: Agent Negotiation Space (Cost vs Satisfaction Scatter Plot)
+<img width="1840" height="600" alt="Agent Negotiation Space - Cost vs Satisfaction" src="https://github.com/user-attachments/assets/e88be949-2121-4951-9e77-96b01d8b3b72" />
 
 ### What This Dashboard Shows
 This interactive scatter plot visualizes how three different AI agents propose different solutions for each support ticket, plotting their recommendations across two critical business dimensions: **operational cost** (X-axis) and **customer satisfaction** (Y-axis).
@@ -77,6 +78,7 @@ This interactive scatter plot visualizes how three different AI agents propose d
 ---
 
 ## 💰 Dashboard 2: Cost Savings Waterfall Chart
+<img width="1840" height="600" alt="Cost Optimization Through Nash Equilibrium" src="https://github.com/user-attachments/assets/d224e425-9719-449c-b994-db1ed477c7e3" />
 
 ### What This Dashboard Shows
 This waterfall chart visualizes the financial impact of the adversarial negotiation process, showing how the system moves from the most expensive proposal (Advocate) to the final optimized solution (Nash Equilibrium), with clear visibility into savings achieved.
@@ -128,6 +130,7 @@ This waterfall chart visualizes the financial impact of the adversarial negotiat
   - >55% = Risk of customer satisfaction issues
 
 #### **3. Management Decision Framework**
+<img width="1840" height="600" alt="Pareto Frontier - Optimal Cost-Satisfaction Trade-offs" src="https://github.com/user-attachments/assets/5330f85b-e679-4c0b-8b33-34a0b445012d" />
 
 **Scenario A: Large Savings (>45%)**
 - **Question to ask**: Are we sacrificing customer satisfaction?
@@ -170,6 +173,7 @@ This waterfall chart visualizes the financial impact of the adversarial negotiat
 ---
 
 ## 🔥 Dashboard 3: Escalation Risk Heatmap
+<img width="1840" height="500" alt="Escalation Risk Heatmap - Severity vs Customer Tier" src="https://github.com/user-attachments/assets/a47cac89-8770-49f9-b64d-73273afcd1d8" />
 
 ### What This Dashboard Shows
 This heatmap displays the probability of ticket escalation based on two critical factors: **customer tier** (columns) and **ticket severity** (rows). The color intensity indicates escalation risk, with darker red showing higher risk.
